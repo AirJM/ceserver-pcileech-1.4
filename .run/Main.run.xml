@@ -1,0 +1,27 @@
+<!--
+  ~ This file is part of ceserver-pcileech by Isabella Flores
+  ~
+  ~ Copyright © 2021-2022 Isabella Flores
+  ~
+  ~ It is licensed to you under the terms of the
+  ~ GNU Affero General Public License, Version 3.0.
+  ~ Please see the file LICENSE for more information.
+  -->
+
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="iflores.ceserver.pcileech.Main" />
+    <module name="ceserver-pcileech" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="iflores.ceserver.pcileech.Main" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
